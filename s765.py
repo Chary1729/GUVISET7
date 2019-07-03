@@ -1,2 +1,3 @@
 inp=input()
-print(inp)
+x=inp
+print(x)
